@@ -3,7 +3,10 @@ import ReactDOM from 'react-dom';
 
 function Hi(){
   return <div>
-    <p>Hi this  is hassan</p>
+  <p>this is fb post</p>
+    <p>Hi this  is hassan khan</p>
+    <p>Hi this  is hassan khan</p>
+
   </div>
 }
 
